@@ -1,0 +1,1 @@
+O projeto visa o controle total do estoque e fluxo de vendas inicialmente.
